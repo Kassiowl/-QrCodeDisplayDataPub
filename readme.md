@@ -61,4 +61,3 @@ Go to QrCodeData_django and execute python manage.py 7000, the port has to be 70
 Go to qrcodedata_react and run npm install and npm run dev
 fill in the form and click generate, it will generate qrcode
 theres a video too that demonstrate the application
-if there's 

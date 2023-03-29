@@ -47,3 +47,7 @@ clear context of the business rules, i decided to split as i would imagine this 
 
 ## PERSON INFO
 > api/personDisplayData?name=john&surname=william&lastname=Oliver&age=21&aboutme=loremipsum&githuburl=https://github.com/john&linkedinurl=https://www.linkedin.com/in/oliverwilliam
+
+
+## Video
+    https://www.youtube.com/watch?v=vWYBr9Zx6GE

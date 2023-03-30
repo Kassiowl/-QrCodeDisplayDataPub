@@ -58,7 +58,8 @@ clear context of the business rules, i decided to split as i would imagine this 
 * run pip install qrcode
 * run pip install django-cors-headers
 * in QrCodeData_django/QrCodeData_django, open settings.py file and added the specified secret_key that i send it to the e-mail
-![Secret Key](secret_key.png)
+![Secret Key ](secret_key.png)
+
 * if there's a error like a missing dependency, just run pip install {dependency}
 * Go to QrCodeData_django and execute python manage.py 7000, the port has to be 7000
 * Go to qrcodedata_react and run npm install and npm run dev

@@ -80,7 +80,7 @@ def index(request):
     qrcode_img = qrcode_use_case.run()
     
     img_bytes = BytesIO()
-    qrcode_img.save(img_bytes, format='PNG')
+    qrcode_img.save(img_bytes)
     img_bytes.seek(0)
     
 

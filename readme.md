@@ -60,7 +60,7 @@ clear context of the business rules, i decided to split as i would imagine this 
 * in QrCodeData_django/QrCodeData_django, open settings.py file and added the specified secret_key that i send it to the e-mail
 * if there's a error like a missing dependency, just run pip install {dependency}
 * Go to QrCodeData_django and execute python manage.py runserver 7000, the port has to be 7000
-* Go to qrcodedata_react and run npm install and npm run dev
+* in other terminal, Go to qrcodedata_react and run npm install and npm run dev
 * make sure that bove applications, react and django are running.
 * fill in the form in the local react application and click generate, it will generate communicate with django application and generate qrcode
 * theres a video too that demonstrate the application
